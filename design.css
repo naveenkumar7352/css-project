@@ -1,0 +1,21 @@
+.test{
+    color: red;
+}
+.test1{
+    color: blue;
+    background-color: yellow;
+    width: fit-content;
+}
+ .special {
+     background-color: yellow;
+ }
+ .lining{
+     text-decoration: underline;
+     color: red;
+ }
+ .style{
+     letter-spacing: 5px;
+     font-style: oblique;
+     color: red;
+
+ }
